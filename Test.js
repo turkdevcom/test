@@ -4,3 +4,5 @@ var f = function(name, surname)
 }
 
 f('Ali', 'Veli');
+
+f('Hasan', 'Veli');
